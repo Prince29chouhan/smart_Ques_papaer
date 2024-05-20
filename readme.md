@@ -49,8 +49,6 @@ The script uses OpenCV's `findContours` function to detect contours in the thres
 
 The script draws the detected contours and their centroids on the image, then displays the image with this information.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
